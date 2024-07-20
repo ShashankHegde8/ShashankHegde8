@@ -2,11 +2,6 @@
 <h3 align="center">A passionate Fullstack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankhegde8&label=Profile%20views&color=0e75b6&style=flat" alt="shashankhegde8" /> </p>
-
-- 🌱 I’m currently learning **Javascript,Reactjs**
-
-- 💬 Ask me about **Python,Java**
-
 - 📫 How to reach me **shashankhegde2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
